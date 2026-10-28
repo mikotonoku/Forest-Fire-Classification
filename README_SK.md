@@ -8,7 +8,13 @@
 
 Tento repozitár obsahuje reprodukovateľné porovnanie transferového učenia pre predmet **Hlboké neurónové siete (HNS)** na STU FEI. Porovnáva päť architektúr pri klasifikácii obrázkov do tried `Fire`, `Smoke` a `Non_Fire`.
 
-> English version: [README.md](README.md)
+## Zhrnutie zadania
+
+Zadanie vyžaduje porovnať klasickú CNN, CNN s attention vrstvou, optimalizovanú CNN, vizuálny transformer a hybridný model pomocou transferového učenia. Dataset sa náhodne rozdelí na tréningovú, validačnú a testovaciu množinu v pomere 80 % / 10 % / 10 %. Každý model sa má natrénovať trikrát a výsledky sa majú štatisticky vyhodnotiť.
+
+Pre najlepší checkpoint každého typu modelu je potrebné ukázať krivky Loss a Accuracy pre trénovacie a validačné dáta, metriky Accuracy, Precision a Recall na testovacích dátach, maticu zámien a vizualizáciu rozhodovania CNN pomocou Grad-CAM. Aspoň pri jednom modeli sa má ukázať vplyv augmentácie a postupného rozmrazovania vrstiev.
+
+---
 
 ## Obsah
 
@@ -28,7 +34,7 @@ Tento repozitár obsahuje reprodukovateľné porovnanie transferového učenia p
 - [Spustenie](#spustenie)
 - [Autori](#autori)
 
-## Zoznam obrázkov a tabuliek
+---
 
 ### Zoznam obrázkov
 
@@ -48,6 +54,8 @@ Tento repozitár obsahuje reprodukovateľné porovnanie transferového učenia p
 14. [Obrázok 14. Grad-CAM: nesprávna predikcia M1](#fig-gradcam-incorrect-sk)
 15. [Obrázok 15. M5 na kompletných pôvodných testovacích dátach](#fig-m5-full-test-cm-sk)
 
+---
+
 ### Zoznam tabuliek
 
 1. [Tabuľka 1. Pevné stratifikované rozdelenie](#tbl-split-sk)
@@ -62,13 +70,7 @@ Tento repozitár obsahuje reprodukovateľné porovnanie transferového učenia p
 10. [Tabuľka 10. Doplnkové experimenty M1](#tbl-additional-m1-sk)
 11. [Tabuľka 11. Hodnotenie kompletných pôvodných testovacích dát](#tbl-full-test-sk)
 
-## Zhrnutie zadania
-
-Zadanie vyžaduje porovnať klasickú CNN, CNN s attention vrstvou, optimalizovanú CNN, vizuálny transformer a hybridný model pomocou transferového učenia. Dataset sa náhodne rozdelí na tréningovú, validačnú a testovaciu množinu v pomere 80 % / 10 % / 10 %. Každý model sa má natrénovať trikrát a výsledky sa majú štatisticky vyhodnotiť.
-
-Pre najlepší checkpoint každého typu modelu je potrebné ukázať krivky Loss a Accuracy pre trénovacie a validačné dáta, metriky Accuracy, Precision a Recall na testovacích dátach, maticu zámien a vizualizáciu rozhodovania CNN pomocou Grad-CAM. Aspoň pri jednom modeli sa má ukázať vplyv augmentácie a postupného rozmrazovania vrstiev.
-
-<p align="right"><a href="#obsah">Späť na obsah</a></p>
+---
 
 ## Ciele
 
@@ -82,6 +84,8 @@ Projekt:
 6. skúma augmentáciu a fine-tuning pri základnom CNN modeli.
 
 <p align="right"><a href="#obsah">Späť na obsah</a></p>
+
+---
 
 ## Dataset a rozdelenie dát
 
@@ -122,6 +126,8 @@ valid, test = train_test_split(
 
 <p align="right"><a href="#obsah">Späť na obsah</a></p>
 
+---
+
 ## Modely
 
 | ID | Model | Kategória |
@@ -135,6 +141,8 @@ valid, test = train_test_split(
 Všetky modely používajú predtrénované ImageNet váhy. Pôvodná klasifikačná vrstva bola nahradená novou hlavou pre tri triedy.
 
 <p align="right"><a href="#obsah">Späť na obsah</a></p>
+
+---
 
 ## Protokol trénovania
 
@@ -169,6 +177,8 @@ Validačné a testovacie obrázky používajú iba deterministické predspracova
 
 <p align="right"><a href="#obsah">Späť na obsah</a></p>
 
+---
+
 ## Výsledky
 
 Tabuľka uvádza priemer ± smerodajnú odchýlku z troch hlavných behov. Macro metriky sa najprv vypočítajú samostatne pre `Fire`, `Smoke` a `Non_Fire`, potom má každá trieda rovnakú váhu.
@@ -194,6 +204,8 @@ Tabuľka uvádza priemer ± smerodajnú odchýlku z troch hlavných behov. Macro
 
 <p align="right"><a href="#obsah">Späť na obsah</a></p>
 
+---
+
 ## Najlepší checkpoint každého typu modelu
 
 Checkpoint sa vyberá podľa **najnižšieho validation loss**, ešte pred kontrolou konečných testovacích metrík. Preto môže mať zvolený beh nižšiu testovaciu accuracy ako iný beh rovnakého modelu; je to metodicky správne, pretože testovacie dáta sa nesmú používať na výber modelu.
@@ -211,6 +223,8 @@ Checkpoint sa vyberá podľa **najnižšieho validation loss**, ešte pred kontr
 | M5 - CoAtNet-0 | 3 | 100,00 % | 100,00 % | 100,00 % | 100,00 % | 0,03852 | 10 |
 
 <p align="right"><a href="#obsah">Späť na obsah</a></p>
+
+---
 
 ## Podrobné výsledky modelov
 
@@ -328,6 +342,8 @@ Všetky hodnoty v nasledujúcich tabuľkách sú vypočítané na rovnakej oddel
 
 <p align="right"><a href="#obsah">Späť na obsah</a></p>
 
+---
+
 ## Doplnkové experimenty M1: augmentácia a rozmrazovanie
 
 Základná konfigurácia M1 používa doplnkovú augmentáciu a postupné rozmrazovanie backbone. Dva samostatné behy skúmajú vplyv týchto rozhodnutí.
@@ -356,6 +372,8 @@ Výsledok behu 92 ukazuje jasné zhoršenie, ak ImageNet backbone zostane zmraze
 
 <p align="right"><a href="#obsah">Späť na obsah</a></p>
 
+---
+
 ## Grad-CAM vizualizácie
 
 Grad-CAM bol vytvorený z poslednej konvolučnej vrstvy vhodných vybraných modelov. Pre jeden správne a, ak existuje, jeden nesprávne klasifikovaný testovací obrázok vytvára heatmapu prekrytú cez pôvodný obrázok.
@@ -377,6 +395,8 @@ Grad-CAM **nie je segmentačná maska**. Neoznačuje presne všetky pixely ohňa
 *Obrázok 14. Grad-CAM nesprávne klasifikovaného testovacieho obrázka pre ResNet50 (M1, beh 3).*
 
 <p align="right"><a href="#obsah">Späť na obsah</a></p>
+
+---
 
 ## Doplnkové hodnotenie na kompletných pôvodných testovacích dátach
 
@@ -412,6 +432,8 @@ Tento výsledok je užitočná rozsiahla doplnková kontrola, ale nemožno ho oz
 
 <p align="right"><a href="#obsah">Späť na obsah</a></p>
 
+---
+
 ## Výstupy programu
 
 Každé úplné spustenie vytvorí časovo označený priečinok v `outputs/`:
@@ -435,6 +457,8 @@ outputs/<časová_značka>/
 Ak vybraný beh nemá nesprávnu predikciu, `gradcam_incorrect.png` sa nevytvorí.
 
 <p align="right"><a href="#obsah">Späť na obsah</a></p>
+
+---
 
 ## Inštalácia
 
@@ -461,6 +485,8 @@ Podporované formáty: JPG, JPEG, PNG, BMP, WEBP, TIF a TIFF.
 
 <p align="right"><a href="#obsah">Späť na obsah</a></p>
 
+---
+
 ## Spustenie
 
 Vytvorenie iba rozdelenia dát:
@@ -484,6 +510,8 @@ python experiment.py --models M1 --runs 1 --epochs 2 --batch-size 8 --samples-pe
 Pre použitie všetkých dostupných obrázkov namiesto vyváženej vzorky 1 000 obrázkov na triedu použite `--samples-per-class 0`.
 
 <p align="right"><a href="#obsah">Späť na obsah</a></p>
+
+---
 
 ## Autori
 
