@@ -1,0 +1,16 @@
+{
+  "model": "M5 CoAtNet",
+  "checkpoint": "C:\\Users\\ryant\\Downloads\\HNS_Project1\\outputs\\20261020_125517\\M5_run3\\weights.pt",
+  "source_test_root": "C:\\Users\\ryant\\Downloads\\HNS_Project1\\raw_data\\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\\test",
+  "n_images": 10500,
+  "class_counts": {
+    "Fire": 3500,
+    "Smoke": 3500,
+    "Non_Fire": 3500
+  },
+  "loss": 0.05445533532527266,
+  "accuracy": 0.9833333333333333,
+  "precision_macro": 0.9833899981634221,
+  "recall_macro": 0.9833333333333334,
+  "f1_macro": 0.9833302836763141
+}

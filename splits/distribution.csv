@@ -1,0 +1,4 @@
+split,Fire,Non_Fire,Smoke
+test,100,100,100
+train,800,800,800
+valid,100,100,100
