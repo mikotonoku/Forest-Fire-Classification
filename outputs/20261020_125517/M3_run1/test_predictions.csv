@@ -1,0 +1,301 @@
+path,true,predicted
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (4342).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (2810).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (5499).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (1432).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NF_2160.jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (899).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (4956).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (8427).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (397).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (185).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (1400).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (1362).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (1908).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (492).tif,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (4376).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (1393).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (347).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (5406).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NON_FIRE (1262).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (1626).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (820).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (4134).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (4699).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (381).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (202).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (463).tif,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (3541).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (5514).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (669).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (6657).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NON_FIRE (4058).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (1711).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (7285).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NF_141.jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (1586).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\frame297000.jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (1624).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (6685).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (179).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (1013).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (306).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (3212).jpg,Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (1313).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (5171).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (363).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (5724).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (849).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (6788).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (202).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (327).png,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (313).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (1664).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (2733).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (3774).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (3909).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (2169).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (1705).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (9754).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (8525).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (26).tif,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (944).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (1402).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (1374).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (4360).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (4886).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (565).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (2442).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (104).jpeg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (2447).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (296).tif,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (1652).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (427).tif,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (926).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (6485).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (7795).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (8503).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (535).tif,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (9176).jpg,Non_Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (3434).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (5838).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (87).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (1090).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (6912).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (9641).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (6704).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (1310).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (228).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (8492).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (1631).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (2746).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (1528).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (1941).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (6607).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NON_FIRE (3601).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (3720).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (3804).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (9497).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (1391).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (1780).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (324).tif,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (780).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (1).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (6556).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (1434).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NF_628.jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (7787).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (3504).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (7337).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (1333).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (2320).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (706).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (1608).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (423).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (1136).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\winter120000.jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (664).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (8145).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (6327).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (743).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (388).png,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (1383).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (9856).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (7137).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (517).jpeg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (5180).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (7222).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NON_FIRE (4107).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (500).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (6359).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (2983).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (216).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (1240).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (21).tif,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (1151).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (7780).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (2295).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (5587).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (6417).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (4843).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (1441).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (5815).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (572).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\0BC55VR9BNC2.jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (1706).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\nofire_0827.jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (2764).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (5965).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (1235).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NON_FIRE (5082).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (278).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (5042).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (6842).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (4628).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (8020).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (667).jpeg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (2745).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (5943).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (1758).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (2196).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NON_FIRE (2688).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (10154).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (6859).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (8492).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (5591).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (2768).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (8072).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (3083).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (843).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (548).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (7472).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (1270).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (6876).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NON_FIRE (5076).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\winter172800.jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (2264).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (2027).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NON_FIRE (1980).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (610).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (358).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (96).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (7102).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (917).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (8600).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (6647).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (1705).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (631).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (8582).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (10008).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (1471).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (5362).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (1689).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (790).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NON_FIRE (2152).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (7547).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (5715).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (8994).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (972).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (1691).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (4735).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (1930).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (327).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (3493).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (921).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (3433).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (1409).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (7216).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (2321).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (9646).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (1164).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (2249).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (5621).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (803).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (1971).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (2192).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (7189).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (1000).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (8763).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (5061).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (481).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (9370).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (465).tif,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (7517).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (1688).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NON_FIRE (5811).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (42).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (1519).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NON_FIRE (811).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (7705).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (5178).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (2084).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (3233).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (376).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (3697).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (223).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (313).tif,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (6926).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (10).jpeg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (515).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (1335).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (554).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (9672).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (5452).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (709).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (4394).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (2).png,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (579).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (6532).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (7998).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NON_FIRE (2900).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (536).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NON_FIRE (3891).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (6289).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (1531).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (189).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (1891).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (646).tif,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (5001).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (7607).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (392).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\NF_958.jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (3101).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (808).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (107).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (1430).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (575).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (795).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (6590).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (8764).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (962).tif,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\07545.jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (2545).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (715).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (974).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (3028).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (2115).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (7912).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\nf1 (504).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (417).png,Non_Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (981).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (910).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (700).jpeg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (4445).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (4510).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (42).jpeg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (5706).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (890).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (7404).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (2211).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\Smoke\Smoke (418).tif,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (9999).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\non fire\nf2 (240).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (2165).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\test\fire\Fire (1640).jpg,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (3429).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\fire\Fire (2368).png,Fire,Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (5765).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (535).jpg,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\non fire\Non_Fire (6774).jpg,Non_Fire,Non_Fire
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (146).tif,Smoke,Smoke
+C:\Users\ryant\Downloads\HNS_Project1\raw_data\FOREST_FIRE_SMOKE_AND_NON_FIRE_DATASET\train\Smoke\Smoke (7312).jpg,Smoke,Smoke
