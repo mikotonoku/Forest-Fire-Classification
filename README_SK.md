@@ -518,7 +518,10 @@ Pre použitie všetkých dostupných obrázkov namiesto vyváženej vzorky 1 000
 **Ievgeniia Ievgrafova**  
 **Yehor Kiriienko**
 
-Projekt k predmetu Hlboké neurónové siete  
-Fakulta elektrotechniky a informatiky  
-Slovenská technická univerzita v Bratislave  
+Projekt k predmetu Hlboké neurónové siete
+
+Fakulta elektrotechniky a informatiky
+
+Slovenská technická univerzita v Bratislave
+
 2026
