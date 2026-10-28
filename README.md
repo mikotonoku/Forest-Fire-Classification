@@ -8,6 +8,8 @@
 
 This repository contains a reproducible transfer-learning benchmark for the **Deep Neural Networks (HNS)** course at STU FEI. Five architectures are compared on three image classes: `Fire`, `Smoke`, and `Non_Fire`.
 
+> Slovak version: [README_SK.md](README_SK.md)
+
 ## Assignment summary
 
 The assignment requires a comparison of a conventional CNN, an attention-enhanced CNN, an optimized CNN, a visual transformer, and a hybrid convolution-attention model using transfer learning. The dataset must be randomly split into training, validation, and test subsets in the ratio 80%/10%/10%. Each model must be trained three times and statistically evaluated.
